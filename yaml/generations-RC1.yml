@@ -1,0 +1,88 @@
+---
+id: g1-RC1
+name: Chikorita
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Grass
+evolvesTo:
+- Bayleef
+attacks:
+- name: Run Around
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Switch this Pokémon with 1 of your Benched Pokémon.
+- name: Vine Whip
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: g1
+  name: Generations
+  series: XY
+  printedTotal: 83
+  total: 117
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: GEN
+  releaseDate: 2016/02/22
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/g1/symbol.png
+    logo: https://images.pokemontcg.io/g1/logo.png
+number: RC1
+artist: Sanosuke Sakuma
+rarity: Common
+flavorText: Running around, climbing trees, playing hide-and-seek! Another wonderful
+  day begins!
+nationalPokedexNumbers:
+- 152
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/g1/RC1.png
+  large: https://images.pokemontcg.io/g1/RC1_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/g1-RC1
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.5
+      mid: 1.18
+      high: 3.49
+      market: 1.42
+      directLow: 3.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/g1-RC1
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 1.34
+    lowPrice: 0.2
+    trendPrice: 1.19
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 1.04
+    lowPriceExPlus: 0.49
+    avg1: 0.8
+    avg7: 1.22
+    avg30: 1.58
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.44
+    reverseHoloAvg30: 0.44

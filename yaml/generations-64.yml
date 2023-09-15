@@ -1,0 +1,69 @@
+---
+id: g1-64
+name: Maintenance
+supertype: Trainer
+subtypes:
+- Item
+rules:
+- Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into
+  your deck, you can't play this card.) Then, draw a card.
+- You may play as many Item cards as you like during your turn (before your attack).
+set:
+  id: g1
+  name: Generations
+  series: XY
+  printedTotal: 83
+  total: 117
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: GEN
+  releaseDate: 2016/02/22
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/g1/symbol.png
+    logo: https://images.pokemontcg.io/g1/logo.png
+number: '64'
+artist: Toyste Beach
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/g1/64.png
+  large: https://images.pokemontcg.io/g1/64_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/g1-64
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.24
+      high: 1.0
+      market: 0.16
+      directLow: 0.18
+    reverseHolofoil:
+      low: 0.14
+      mid: 0.4
+      high: 5.0
+      market: 0.34
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/g1-64
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.12
+    lowPrice: 0.02
+    trendPrice: 0.24
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.12
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.65
+    lowPriceExPlus: 0.02
+    avg1: 0.04
+    avg7: 0.19
+    avg30: 0.15
+    reverseHoloAvg1: 0.05
+    reverseHoloAvg7: 0.56
+    reverseHoloAvg30: 0.65
